@@ -1,6 +1,6 @@
 /*
     lo scopo del bonus è far scegliere all'utente, avendo due numeri,
-    scegliere se applicare un'addizione, una sottrazione, una moltiplicazione oppure
+    se applicare un'addizione, una sottrazione, una moltiplicazione oppure
     una divisione utilizzando un ciclo iterativo
 */
 
